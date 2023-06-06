@@ -19,7 +19,7 @@ import plotly.graph_objects as go
 st.set_page_config(layout="wide")
 
 # Título principal
-st.markdown("<h1 style='text-align: center; color: #2874A6;'>Enfermedades que han afectado gravemente a Nueva York 🗽</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #4A148C;'>Enfermedades que han afectado gravemente a Nueva York 🗽</h1>", unsafe_allow_html=True)
 
 # Cargar datos
 
