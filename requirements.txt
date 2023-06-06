@@ -4,5 +4,4 @@ streamlit
 datetime
 openpyxl
 Pydeck
-matplotlib.pyplot
 
